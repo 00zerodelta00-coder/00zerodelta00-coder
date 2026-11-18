@@ -7,6 +7,7 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=00zerodelta00-coder&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Commits" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00zerodelta00-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="175em" src="https://streak-stats.demolab.com?user=00zerodelta00-coder&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=00zerodelta00-coder&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Commits" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00zerodelta00-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
